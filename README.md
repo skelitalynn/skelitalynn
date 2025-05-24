@@ -1,6 +1,9 @@
 <h1 align="center">👋, I'm Lynn</h1>
+
 🔭 I’m currently studying on**SCUT**
+
 🌱 I’m currently learning **Avalanche**
+
 <h3 align="left">Connect with me:skelitalynn@gmail.com</h3>
 <p align="left">
 </p>
