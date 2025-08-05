@@ -1,6 +1,4 @@
-<h1 align="center">👋, I'm Lynn</h1>
-
-🔭 I’m currently studying on **SCUT**
+<h1 align="center">Hi, I'm Skelita,you can call me Skeli for short.</h1>
 
 🌱 I’m currently learning **Avalanche**
 
